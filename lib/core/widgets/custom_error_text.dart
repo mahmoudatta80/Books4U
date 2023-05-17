@@ -14,7 +14,7 @@ class CustomErrorText extends StatelessWidget {
           Text(
             errorMessage,
             style: const TextStyle(
-              fontSize: 24,
+              fontSize: 20,
               color: Colors.white60,
             ),
           ),
