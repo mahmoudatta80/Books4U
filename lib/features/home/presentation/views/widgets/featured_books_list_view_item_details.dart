@@ -32,6 +32,8 @@ class FeaturedBooksListViewItemDetails extends StatelessWidget {
             fontSize: 16,
             color: Colors.white60,
           ),
+          maxLines: 1,
+          overflow: TextOverflow.ellipsis,
         ),
         const SizedBox(
           height: 5,
